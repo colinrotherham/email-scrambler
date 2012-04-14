@@ -1,6 +1,7 @@
-/* ---------------------------------------
-	Email Obfuscator
---------------------------------------- */
+/*
+	Copyright (c) 2012 Colin Rotherham, http://colinr.com
+	https://github.com/colinrotherham/email-obfuscator
+*/
 
 	var CRD = CRD || {};
 	
