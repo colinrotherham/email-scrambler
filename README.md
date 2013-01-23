@@ -20,3 +20,8 @@ To unscramble an obfuscated array into an email:
 // The 'unscramble' method takes a scrambled array and returns a nice string
 var unscrambled = CRD.email.unscramble([101, 221, 217, 206, 221, 220, 209, 165, 165, 221, 217, 206, 221, 220, 209, 147, 145, 210, 220]);
 ```
+
+NB
+--
+
+For users browsing your site without JavaScript, make sure you have a suitable fallback!
