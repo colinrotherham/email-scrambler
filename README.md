@@ -1,5 +1,5 @@
-Email Obfuscator Readme
-=======================
+Email Scrambler Readme
+======================
 
 Scrambling an email
 -------------------
